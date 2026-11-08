@@ -26,16 +26,16 @@ body{
 }
 
 header{
-    background-color: aliceblue;
+    background-color: rgb(255, 255, 255);
 }
 
 .btn{
     background-color: #05c445;
     color: #ffffff;
     transition: 0.5s;
-    padding: 15px;
-    margin-bottom: 1%;
+    padding: 12px 20px;
     border: none;
+    margin: 15px;
 }
 
 .btn:hover{
@@ -44,8 +44,9 @@ header{
 }
 
 p{
-    font-size: 20px;
+    font-size: 15px;
     color: aliceblue;
+    padding: 3px;
 }
 
 li{
