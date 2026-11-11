@@ -39,6 +39,10 @@ body{
     background-color: #ffffff;
 }
 
+#btn_conta{
+    margin-left: -1%;
+}
+
 
 .btn:focus, 
 .btn:active, 

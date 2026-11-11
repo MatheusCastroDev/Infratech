@@ -20,6 +20,10 @@ body{
     color: rgb(255, 255, 255);
 }
 
+#btn_conta{
+    margin-left: -1%;
+}
+
 .offcanvas-body{
     background-color: rgb(61, 61, 61);
     color: #02dd27;
